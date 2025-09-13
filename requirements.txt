@@ -1,0 +1,8 @@
+langchain
+groq
+dotenv
+streamlit
+pathlib
+langchain_groq
+langchain_community
+mysql-connector-python
